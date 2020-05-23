@@ -2,3 +2,4 @@ Test a
 Added a
 rebase1
 rebase2
+Merge1
