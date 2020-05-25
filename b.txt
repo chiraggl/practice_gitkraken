@@ -2,3 +2,4 @@ B data
 Edited
 Test1
 Master-commit1
+Master2
