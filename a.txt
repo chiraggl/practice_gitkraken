@@ -4,3 +4,4 @@ rebase1
 rebase2
 Merge1
 Modified!!
+check1
