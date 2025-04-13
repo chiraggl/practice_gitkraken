@@ -2,3 +2,6 @@ B data
 Edited
 Test1
 Tesstt
+
+
+Hello from new Rule
